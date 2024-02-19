@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#ping
+ping www.google.com
